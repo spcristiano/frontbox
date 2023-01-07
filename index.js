@@ -41,7 +41,7 @@ menuCloseBtn.addEventListener("mouseout", function(){
 
 
 
-//===================================================== Control for the omos and Cursos section starts here ==========================================================
+//===================================================== Control for the somos and Cursos section starts here ==========================================================
 
 // This will toogle the about us image at mouse over and mouse out
 
